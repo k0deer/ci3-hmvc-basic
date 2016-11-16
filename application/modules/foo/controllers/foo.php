@@ -10,6 +10,14 @@ class Foo extends MX_Controller {
 		
 	}
 
+	public function test(){
+		echo "test section";
+	}
+
+	public function testParam($param){
+		echo "test section" . $param;
+	}
+
 
 
 	

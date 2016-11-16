@@ -1,1 +1,0 @@
-Configuracion HMVC Codeigniter 3 Minima
